@@ -1,2 +1,3 @@
 # RBCG
-Random Background Color Generator
+## Random Background Color Generator
+Randomly generate a solid or linear gradient background color.

@@ -36,8 +36,8 @@ article{
 
 /* Card Styles */
 .card{
-    width: 50vw;
-    height: 50vh;
+    width: fit-content;
+    height: fit-content;
     padding: 2rem;
     border: 1px solid whitesmoke;
     border-radius: 1rem;
